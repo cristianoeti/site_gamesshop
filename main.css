@@ -154,7 +154,7 @@ section h3 {
 
 input:focus,
 textarea:focus {
-  outline-color: #11a58c;
+  outline-color: #11a58c; /* ao clicar no Campo do Input, ele se destaca com essa COR */
 }
 
 footer {
